@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/machozhao/zhao_ws/src/lidar_eskf/cmake-build-debug/devel/setup.sh

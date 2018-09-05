@@ -1,0 +1,8 @@
+prefix=/home/machozhao/zhao_ws/src/lidar_eskf/cmake-build-debug/devel
+
+Name: lidar_eskf
+Description: Description of lidar_eskf
+Version: 0.0.0
+Cflags: -I/home/machozhao/zhao_ws/src/lidar_eskf/include
+Libs: -L/home/machozhao/zhao_ws/src/lidar_eskf/cmake-build-debug/devel/lib /opt/ros/kinect/lib/libdynamicedt3d.so
+Requires: tf
